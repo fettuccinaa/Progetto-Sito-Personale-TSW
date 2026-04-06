@@ -6,6 +6,33 @@
     font-style: italic;
 }
 
+@font-face {
+    font-family: 'Calling Angels Personal Use';
+    src: url('fonts/CallingAngelsPersonalUse.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Gaegu light';
+    src: url('fonts/Gaegu-Light.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Love';
+    src: url('fonts/Love.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'coolvetica rg it';
+    src: url('fonts/CoolveticaRgIt.TTF') format('truetype');
+    font-weight: normal;
+}
+
 html, body {
     margin: 0;
     padding: 0;
