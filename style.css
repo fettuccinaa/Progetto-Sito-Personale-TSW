@@ -8,7 +8,7 @@
 
 @font-face {
     font-family: 'Calling Angels Personal Use';
-    src: url('fonts/CallingAngelsPersonalUse.woff') format('woff');
+    src: url('fonts/Calling Angels Personal Use.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
@@ -29,7 +29,7 @@
 
 @font-face {
     font-family: 'coolvetica rg it';
-    src: url('fonts/CoolveticaRgIt.TTF') format('truetype');
+    src: url('fonts/coolvetica rg it.otf') format('opentype');
     font-weight: normal;
 }
 
